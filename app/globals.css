@@ -76,3 +76,15 @@
     @apply bg-background text-foreground;
   }
 }
+.react-icons{
+  width: 30px !important;
+  height: 30px !important;
+}
+.text-banner svg {
+  width: 25px !important;
+  height: 25px !important;
+}
+.header .user-navbar svg{
+    width: 25px !important;
+    height: 25px !important;
+}
